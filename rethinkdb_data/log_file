@@ -1,0 +1,61 @@
+2018-08-16T01:19:21.280016000 0.017509s notice: Recursively removing directory /Users/cocolcleasure/Code/backlog/rethinkdb_data/tmp
+2018-08-16T01:19:21.281772000 0.019271s notice: Initializing directory /Users/cocolcleasure/Code/backlog/rethinkdb_data
+2018-08-16T01:19:21.281905000 0.019399s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/cocolcleasure/Code/backlog/rethinkdb_data' did not already exist or is empty.)
+2018-08-16T01:19:21.281963000 0.019457s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2018-08-16T01:19:21.286400000 0.023894s notice: Running on Darwin 17.6.0 x86_64
+2018-08-16T01:19:21.286442000 0.023935s notice: Loading data from directory /Users/cocolcleasure/Code/backlog/rethinkdb_data
+2018-08-16T01:19:21.440432000 0.177932s info: Automatically using cache size of 3537 MB
+2018-08-16T01:19:21.441077000 0.178577s notice: Listening for intracluster connections on port 29015
+2018-08-16T01:19:21.443197000 0.180697s notice: Listening for client driver connections on port 28015
+2018-08-16T01:19:21.443416000 0.180916s notice: Listening for administrative HTTP connections on port 8080
+2018-08-16T01:19:21.443424000 0.180924s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-08-16T01:19:21.443430000 0.180930s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-08-16T01:19:21.443434000 0.180934s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-08-16T01:19:21.443442000 0.180942s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-08-16T01:19:21.443450000 0.180950s notice: Server ready, "MM_C03844_5i9" 762e90cf-81de-4ed9-8c3e-bf74001bb403
+2018-08-16T01:20:00.888369000 39.627558s info: Table 16baa213-e0b1-4cba-a1a0-afccf5c0f858: Starting a new Raft election for term 1.
+2018-08-16T01:20:00.888679000 39.627868s info: Table 16baa213-e0b1-4cba-a1a0-afccf5c0f858: Added replica on this server.
+2018-08-16T01:20:00.907305000 39.646494s info: Table 16baa213-e0b1-4cba-a1a0-afccf5c0f858: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-16T02:16:45.878419000 3444.767933s info: Table 7d5d1e83-f83d-4a99-9286-6d5dbddec442: Starting a new Raft election for term 1.
+2018-08-16T02:16:45.878642000 3444.768155s info: Table 7d5d1e83-f83d-4a99-9286-6d5dbddec442: Added replica on this server.
+2018-08-16T02:16:45.898943000 3444.788458s info: Table 7d5d1e83-f83d-4a99-9286-6d5dbddec442: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-16T02:20:36.113370000 3675.012998s info: Table 1b8e4cc8-7793-4054-9b2d-3a6082e51816: Starting a new Raft election for term 1.
+2018-08-16T02:20:36.113809000 3675.013437s info: Table 1b8e4cc8-7793-4054-9b2d-3a6082e51816: Added replica on this server.
+2018-08-16T02:20:36.150889000 3675.050518s info: Table 1b8e4cc8-7793-4054-9b2d-3a6082e51816: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-16T02:27:58.487905000 4117.406966s info: Table 8c6df9a8-cba4-4ae5-af92-51d4b344cff3: Starting a new Raft election for term 1.
+2018-08-16T02:27:58.488069000 4117.407130s info: Table 8c6df9a8-cba4-4ae5-af92-51d4b344cff3: Added replica on this server.
+2018-08-16T02:27:58.509558000 4117.428620s info: Table 8c6df9a8-cba4-4ae5-af92-51d4b344cff3: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-16T02:33:30.819227000 4449.752887s info: Table e9cac968-893e-4af4-87de-1645209a9eef: Starting a new Raft election for term 1.
+2018-08-16T02:33:30.819438000 4449.753099s info: Table e9cac968-893e-4af4-87de-1645209a9eef: Added replica on this server.
+2018-08-16T02:33:30.841939000 4449.775601s info: Table e9cac968-893e-4af4-87de-1645209a9eef: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-16T02:36:03.288481000 4602.228840s info: Table bfcd6fb5-230e-45ac-9aad-65036feceffd: Starting a new Raft election for term 1.
+2018-08-16T02:36:03.288697000 4602.229056s info: Table bfcd6fb5-230e-45ac-9aad-65036feceffd: Added replica on this server.
+2018-08-16T02:36:03.311185000 4602.251545s info: Table bfcd6fb5-230e-45ac-9aad-65036feceffd: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-16T02:38:01.190479000 4720.136017s info: Table 7b465ade-432d-42f0-b309-7b169af157c0: Starting a new Raft election for term 1.
+2018-08-16T02:38:01.190696000 4720.136233s info: Table 7b465ade-432d-42f0-b309-7b169af157c0: Added replica on this server.
+2018-08-16T02:38:01.213825000 4720.159364s info: Table 7b465ade-432d-42f0-b309-7b169af157c0: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-16T02:40:02.206163000 4841.157017s info: Table 4aaef6a1-174f-4309-b019-c17031c281be: Starting a new Raft election for term 1.
+2018-08-16T02:40:02.206451000 4841.157305s info: Table 4aaef6a1-174f-4309-b019-c17031c281be: Added replica on this server.
+2018-08-16T02:40:02.226092000 4841.176947s info: Table 4aaef6a1-174f-4309-b019-c17031c281be: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-16T02:43:46.855263000 5065.814075s notice: Removing file /Users/cocolcleasure/Code/backlog/rethinkdb_data/16baa213-e0b1-4cba-a1a0-afccf5c0f858
+2018-08-16T02:43:46.855272000 5065.814083s info: Table 16baa213-e0b1-4cba-a1a0-afccf5c0f858: Deleted the table.
+2018-08-16T02:43:46.898196000 5065.857004s notice: Removing file /Users/cocolcleasure/Code/backlog/rethinkdb_data/1b8e4cc8-7793-4054-9b2d-3a6082e51816
+2018-08-16T02:43:46.898207000 5065.857015s info: Table 1b8e4cc8-7793-4054-9b2d-3a6082e51816: Deleted the table.
+2018-08-16T02:43:46.941272000 5065.900076s notice: Removing file /Users/cocolcleasure/Code/backlog/rethinkdb_data/4aaef6a1-174f-4309-b019-c17031c281be
+2018-08-16T02:43:46.941292000 5065.900096s info: Table 4aaef6a1-174f-4309-b019-c17031c281be: Deleted the table.
+2018-08-16T02:43:46.973989000 5065.932791s notice: Removing file /Users/cocolcleasure/Code/backlog/rethinkdb_data/7b465ade-432d-42f0-b309-7b169af157c0
+2018-08-16T02:43:46.973998000 5065.932799s info: Table 7b465ade-432d-42f0-b309-7b169af157c0: Deleted the table.
+2018-08-16T02:43:47.018652000 5065.977450s notice: Removing file /Users/cocolcleasure/Code/backlog/rethinkdb_data/7d5d1e83-f83d-4a99-9286-6d5dbddec442
+2018-08-16T02:43:47.018660000 5065.977457s info: Table 7d5d1e83-f83d-4a99-9286-6d5dbddec442: Deleted the table.
+2018-08-16T02:43:47.051076000 5066.009871s notice: Removing file /Users/cocolcleasure/Code/backlog/rethinkdb_data/8c6df9a8-cba4-4ae5-af92-51d4b344cff3
+2018-08-16T02:43:47.051084000 5066.009879s info: Table 8c6df9a8-cba4-4ae5-af92-51d4b344cff3: Deleted the table.
+2018-08-16T02:43:47.075226000 5066.034019s notice: Removing file /Users/cocolcleasure/Code/backlog/rethinkdb_data/bfcd6fb5-230e-45ac-9aad-65036feceffd
+2018-08-16T02:43:47.075233000 5066.034026s info: Table bfcd6fb5-230e-45ac-9aad-65036feceffd: Deleted the table.
+2018-08-16T02:43:47.101468000 5066.060260s notice: Removing file /Users/cocolcleasure/Code/backlog/rethinkdb_data/e9cac968-893e-4af4-87de-1645209a9eef
+2018-08-16T02:43:47.101479000 5066.060270s info: Table e9cac968-893e-4af4-87de-1645209a9eef: Deleted the table.
+2018-08-16T02:48:54.203471000 5373.173457s info: Table 59b84a46-b66b-438e-bc2a-1b925dd45f7d: Starting a new Raft election for term 1.
+2018-08-16T02:48:54.203688000 5373.173673s info: Table 59b84a46-b66b-438e-bc2a-1b925dd45f7d: Added replica on this server.
+2018-08-16T02:48:54.222813000 5373.192800s info: Table 59b84a46-b66b-438e-bc2a-1b925dd45f7d: This server is Raft leader for term 1. Latest log index is 0.
+2018-08-16T02:51:03.427022000 5502.402505s info: Table a46192fa-1398-4b93-963b-a4d64be81c35: Starting a new Raft election for term 1.
+2018-08-16T02:51:03.427235000 5502.402717s info: Table a46192fa-1398-4b93-963b-a4d64be81c35: Added replica on this server.
+2018-08-16T02:51:03.446852000 5502.422336s info: Table a46192fa-1398-4b93-963b-a4d64be81c35: This server is Raft leader for term 1. Latest log index is 0.
